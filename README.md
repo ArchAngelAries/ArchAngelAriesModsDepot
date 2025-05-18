@@ -12,7 +12,7 @@ This repository is now the primary location for my mods, provided for those who 
 
 ## About These Mods
 
-This repository contains mods for various games, including (but not limited to):
+This repository will contain my mods for various games, including (but not limited to):
 
 * Fallout 4
 * Oblivion Remastered
